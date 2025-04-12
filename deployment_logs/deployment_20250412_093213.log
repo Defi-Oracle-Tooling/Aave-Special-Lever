@@ -1,0 +1,16 @@
+
+Initializing an app to run on Azure (azd init)
+
+WARNING: The current directory is not empty.
+Initializing an app in this directory may overwrite existing files.
+
+Continue initializing an app in '/workspaces/Aave-Special-Lever'? (y/N)Downloading template code to: /workspaces/Aave-Special-Lever
+  (✓) Done: Downloading template code to: /workspaces/Aave-Special-Lever
+
+
+ERROR: init from template repository: fetching template: failed to clone repository https://github.com/Azure-Samples/staticwebapp: exit code: 128, stdout: , stderr: Cloning into '/tmp/az-dev-template3333498334'...
+remote: Repository not found.
+fatal: repository 'https://github.com/Azure-Samples/staticwebapp/' not found
+
+
+ERROR: no project exists; to create a new project, run `azd init`
